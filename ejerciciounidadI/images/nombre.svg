@@ -1,0 +1,26 @@
+<svg width="379" height="149" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+  <radialGradient r="1" cy="0.519531" cx="0.507813" spreadMethod="pad" id="svg_11">
+   <stop offset="0.492188" stop-color="#94ca61"/>
+   <stop offset="1" stop-color="#6b359e"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="url(#svg_11)" id="canvas_background" height="151" width="381" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text filter="url(#svg_1_blur)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="40" id="svg_1" y="83" x="49.085938" stroke-width="0" fill="#000000">LUZ MILAGROS</text>
+  <ellipse stroke="#000" ry="29.5" rx="188.999994" id="svg_2" cy="66.999998" cx="189.999991" stroke-width="0" fill="none"/>
+  <path id="svg_4" d="m2.72324,17.396294c-0.143397,-0.046565 -0.318833,-0.084265 -0.494808,-0.110637c-0.205335,0.027032 -0.455422,0.043492 -0.728065,0.043492c-0.273179,0 -0.523625,-0.016492 -0.728599,-0.043492c-0.175974,0.026372 -0.35159,0.064072 -0.495339,0.110637c-0.333692,0.108111 -0.37039,0.219006 -0.082173,0.24776c0.129075,0.012953 0.264409,0.003298 0.404224,-0.020918c-0.024525,0.024554 -0.038848,0.051167 -0.038848,0.079004c0,0.123671 0.267275,0.22385 0.596663,0.22385c0.198533,0 0.296813,-0.036477 0.344071,-0.092327c0.047084,0.055849 0.145363,0.092327 0.343177,0.092327c0.329929,0 0.597207,-0.100179 0.597207,-0.22385c0,-0.027837 -0.014327,-0.05445 -0.039386,-0.079004c0.14017,0.024216 0.275325,0.03387 0.404759,0.020918c0.288039,-0.028754 0.250799,-0.139648 -0.082884,-0.24776l0,0zm-1.223226,-0.109334c0.554234,0 1.003747,-0.080806 1.003747,-0.180485s-0.449513,-0.180486 -1.003747,-0.180486c-0.554423,0 -1.00429,0.080822 -1.00429,0.180486s0.449868,0.180485 1.00429,0.180485z" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="none"/>
+  <path id="svg_7" d="m186,240.5" opacity="0.5" stroke-width="2" stroke="#3f7f00" fill="none"/>
+ </g>
+</svg>

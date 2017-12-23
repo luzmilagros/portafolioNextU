@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Hoja de Vida" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Hoja de Vida</title>
+	<style>
+		table, th, td {
+		    border: 1px solid black;
+		    border-collapse: collapse;
+		}
+		th, td {
+		    padding: 5px;
+		    text-align: left;    
+		}
+</style>
+</head>
+<body>
+	<div>
+		<svg viewBox="0 0 100 30">
+			<image xlink:href="images/nombre2.svg" width="100px" height="30px"></image>
+		</svg>
+		<h1 style="text-align:center">Hoja de Vida</h1>
+		<h2 style="text-align:center">Luz Milagros Chafloque Capuñay</h2>
+		<h3 style="text-align:center">08/05/1992,Peru-Lambayeque</h3>
+	</div>
+	<div>
+		<nav>
+			<li><a href="index.html">Inicio</a></li>
+			<li><a href="educacion.html">Educación</a></li>
+			<li><a href="experiencia.html">Experiencia</a></li>
+		</nav>
+	</div>	
+	<h2>Educación</h2>
+	<div>
+		<table>
+			<thead>
+				<tr>
+					<th>Año</th>
+					<th>Institución</th>
+					<th>Lugar</th>
+					<th>¿Culminó?</th>
+				</tr>
+				
+			</thead>
+			<tbody>
+				<tr>
+					<td>1999 - 2003</td>
+					<td>Centro Educativo Particular “Santa Teresa”</td>
+					<td>Monsefu</td>
+					<td>Si</td>
+				</tr>
+				<tr>
+					<td>2006 – 2008</td>
+					<td>Centro Educativo Particular “Carlos Weiss”</td>
+					<td>Monsefu</td>
+					<td>Si</td>
+				</tr>
+				<tr>
+					<td>2009 - 2015</td>
+					<td>Universidad Católica “Santo Toribio de Mogrovejo”</td>
+					<td>Lambayeque</td>
+					<td>Si</td>
+				</tr>
+			</tbody>
+		</table>
+
+	</div>
+	<h3>Agregar Estudios</h3>
+	<form>
+		<div>
+			<label><strong>Año:</strong></label>
+			<select>
+				<option>2016</option>
+				<option>2015</option>
+				<option>2014</option>
+				<option>2013</option>
+			</select>
+		</div><br>
+		<div>
+			<label><strong>Institución:</strong></label>
+			<input type="text" required="required">
+		</div><br>
+		<div>
+			<label><strong>Lugar:</strong></label>
+			<textarea></textarea>
+		</div><br>
+		<div>
+			<label><strong>¿Culminó?</strong></label>
+			
+			<input name="radiocondicion" value="1" type="radio" style="opacity: 1">
+            <span class="lbl">Si</span>
+
+            <input name="radiocondicion" value="1" type="radio" style="opacity: 1">
+            <span class="lbl">No</span>
+			
+		</div><br>
+		<div>
+			<button type="submit">Enviar</button>
+		</div>
+
+	</form>
+	
+	
+	<div>
+		<footer>
+			<h3>Información de Contacto</h3>
+			<li>Email: luz8063@gmail.com</li>
+			<li>Facebook: <a href="https://www.facebook.com/lchafloquecapunay" target="_blank">https://www.facebook.com/lchafloquecapunay</a></li>
+			<li>Dirección: Calle Mariscal Sucre 816, Lambayeque-Perú</li>
+		</footer>
+	</div>
+
+	
+	
+</body>
+</html>

@@ -1,0 +1,20 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <radialGradient r="0.91601" gradientTransform="translate(0,0.09164870689655169) scale(1,0.8137931034482759)" cy="0.492188" cx="0.5" spreadMethod="pad" id="svg_3">
+   <stop offset="0.308594" stop-color="#d0e556"/>
+   <stop offset="1" stop-color="#2f1aa9"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="url(#svg_3)" id="canvas_background" height="102" width="202" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="40" id="svg_1" y="63" x="33.5" stroke-width="0" stroke="#000" fill="#000000">LMCHC</text>
+ </g>
+</svg>
